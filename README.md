@@ -1,1 +1,1 @@
-# gesture Detection System
+# Gesture Detection System
