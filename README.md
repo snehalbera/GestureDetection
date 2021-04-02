@@ -1,7 +1,7 @@
 # Gesture Detection System
 
-GestureDetectionsystem
+GestureDetectionsystem<br>
 |---> labelImg<br>
-|---> TensorFlow
-| creategesture.ipynb
-| detectgesture.ipynb
+|---> TensorFlow<br>
+| creategesture.ipynb<br>
+| detectgesture.ipynb<br>
