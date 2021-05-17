@@ -36,8 +36,8 @@ The `process()` loop can be summarized as follows:
 
 ## Usage
 
-**creategesture**: creates a gesture and prepare image labels using labelImg<br>
-**training**: contains the script for our model training, testing and evaluation<br>
-**photodetect**: detects gestures from a image<br>
-**videodetect**: detects gestures from a video and outputs text & speech<br>
-**real-timedetect**: detects gestures in real time and outputs text & speech<br>
+* **creategesture**: creates a gesture and prepare image labels using labelImg<br>
+* **training**: contains the script for our model training, testing and evaluation<br>
+* **photodetect**: detects gestures from a image<br>
+* **videodetect**: detects gestures from a video and outputs text & speech<br>
+* **real-timedetect**: detects gestures in real time and outputs text & speech<br>
