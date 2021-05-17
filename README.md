@@ -32,13 +32,12 @@ The `process()` loop can be summarized as follows:
 ## Installation
 * [labelImg](https://github.com/tzutalin/labelImg)
 * [TensorFlow](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
-* [Google Protobuf]()
+* [Google Protobuf](https://github.com/protocolbuffers/protobuf/releases)
 
 ## Usage
 
-**creategesture**: creates a gesture and prepare image labels using labelImg
-
-**training**: contains the script for our model training, testing and evaluation
-**photodetect**: detects gestures from a image
-**videodetect**: detects gestures from a video and outputs text & speech
-**real-timedetect**: detects gestures in real time and outputs text & speech
+**creategesture**: creates a gesture and prepare image labels using labelImg<br>
+**training**: contains the script for our model training, testing and evaluation<br>
+**photodetect**: detects gestures from a image<br>
+**videodetect**: detects gestures from a video and outputs text & speech<br>
+**real-timedetect**: detects gestures in real time and outputs text & speech<br>
